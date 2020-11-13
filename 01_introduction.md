@@ -24,4 +24,4 @@
 правовой системы.
 
 [^1]: Lord [1923] p. 5-3.htm
-[^2]: Carnegie [1905] p. 157. (((возможно стр. 171: https://books.google.ru/books?id=RanNosTj3RAC&pg=PA171)))
+[^2]: Carnegie [1905] p. 157. (прим. пер.: возможно стр. 171, https://books.google.ru/books?id=RanNosTj3RAC&pg=PA171)
