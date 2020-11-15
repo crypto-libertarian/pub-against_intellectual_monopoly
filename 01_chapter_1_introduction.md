@@ -84,7 +84,8 @@
 Примечания
 ----------
 
-[^1]: Lord [1923] стр. 5-3.htm
+[^1]: Lord [1923] стр. 5-3.htm (прим. пер.: на самом деле стр. 101-102,
+      https://archive.org/stream/capitalsteampowe00lorduoft?ref=ol#page/100/mode/2up)
 
 [^2]: Carnegie [1905] стр. 157. (прим. пер.: возможно стр. 171,
       https://books.google.ru/books?id=RanNosTj3RAC&pg=PA171)
