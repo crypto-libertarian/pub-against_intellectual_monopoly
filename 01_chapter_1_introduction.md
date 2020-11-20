@@ -276,3 +276,8 @@
 [^7]: Thompson [1847] стр. 110, также процитировано в Lord [1923].
 
 [^8]: Scherer [1984] стр. 24-25.
+
+[^9]: U.S. District Court for Eastern District of Virginia Plaintiff NTP, Inc.
+      v. Defendant Research In Motion Ltd. Civil Action Number 3:01CV767-JRS.
+
+[^10]: U.S. Patent 6219694.
