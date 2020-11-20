@@ -307,3 +307,10 @@
       v. Defendant Research In Motion Ltd. Civil Action Number 3:01CV767-JRS.
 
 [^10]: U.S. Patent 6219694.
+
+[^11]: United States Court of Appeals for the 9 th Circuit Court, In Re:
+       Napster.
+
+[^12]: Stephen Manes [2004].
+
+[^13]: Lessig [2004].
