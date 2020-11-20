@@ -327,3 +327,5 @@
 [^12]: Stephen Manes [2004].
 
 [^13]: Lessig [2004].
+
+[^14]: Robert Barro and Xavier Sala-i-Martin [1999] стр. 290.
