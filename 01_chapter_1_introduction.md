@@ -368,3 +368,7 @@
 [^13]: Lessig [2004].
 
 [^14]: Robert Barro and Xavier Sala-i-Martin [1999] стр. 290.
+
+[^15]: The Economist, 23 июня 2001 года, стр. 42 (прим. пер.:
+       https://www.economist.com/technology-quarterly/2001/06/23/patently-absurd,
+       доступно по подписке).
