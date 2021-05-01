@@ -590,3 +590,7 @@ agreement) и ссылочные (прим. пер.: click-through agreement) с
        можно найти по адресу https://www.law.cornell.edu/treaties/berne/.
        Полезное обсуждение добросовестного использования, включая пародии, есть
        в Gall [2000].
+
+[^18]: U.S. Constitution Article 1, Section 8. Конституция США не является
+       объектом авторского права и доступна в различным местах в Интернете,
+       например по адресу https://www.law.cornell.edu/constitution.
