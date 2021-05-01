@@ -594,3 +594,6 @@ agreement) и ссылочные (прим. пер.: click-through agreement) с
 [^18]: U.S. Constitution Article 1, Section 8. Конституция США не является
        объектом авторского права и доступна в различным местах в Интернете,
        например по адресу https://www.law.cornell.edu/constitution.
+
+[^19]: Фильмом за 218 долларов был "Tarnation". Информация о нём от BBC News
+       доступна по адресу http://news.bbc.co.uk/2/hi/entertainment/3720455.stm.
